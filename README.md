@@ -23,7 +23,7 @@ Ensure you have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone [https://github.com/leryamerlennn/wine-classification-mlops.git](https://github.com/Leryamerlennn/wine-classification-mlops.git)
+   git clone https://github.com/Leryamerlennn/wine-classification-mlops.git
    cd wine-classification-mlops/code/deployment
 2. **Build and Run the Docker containers:**
 
